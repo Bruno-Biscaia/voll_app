@@ -19,18 +19,18 @@ O Voll App foi construído utilizando as seguintes tecnologias:
 ## Como Iniciar
 
 1. Clone o repositório para sua máquina local:
-   git clone [https://github.com/Bruno-Biscaia/voll_app]
+git clone [https://github.com/Bruno-Biscaia/voll_app]
 
-2.Navegue até o diretório do projeto:
-   cd voll-app
+2. Navegue até o diretório do projeto:
+cd voll-app
 
-3.Instale as dependências:
-   npm install
+3. Instale as dependências:
+npm install
 
-4.Inicie o aplicativo usando Expo Go:
-   npx expo start
+4. Inicie o aplicativo usando Expo Go:
+npx expo start
 
-5.Use o leitor de código QR gerado para abrir o aplicativo no Expo Go em seu dispositivo móvel ou emulador.
+5. Use o leitor de código QR gerado para abrir o aplicativo no Expo Go em seu dispositivo móvel ou emulador.
 
 ## Contribuições
 
