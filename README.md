@@ -6,7 +6,7 @@
 
 ## 📖 Descrição
 
-O **Voll App** é um aplicativo móvel desenvolvido com **React Native** e **Expo** para facilitar o agendamento, gerenciamento e busca de consultas médicas. A interface intuitiva foi projetada para profissionais da saúde e pacientes, oferecendo uma experiência fluida e responsiva em diferentes dispositivos.
+O **Voll App** é um aplicativo móvel desenvolvido com **React Native** + **Expo** para facilitar o agendamento, gerenciamento e busca de consultas médicas. A interface intuitiva foi projetada para profissionais da saúde e pacientes, oferecendo uma experiência fluida e responsiva em diferentes dispositivos.
 
 ---
 
